@@ -1,5 +1,5 @@
 
-# [小区物业服务改善计划](/activity/plan.html)
+# [小区物业服务改善计划](/activity/plan)
 
 # [寻找组织](/contact)
 
