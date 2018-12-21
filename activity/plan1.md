@@ -1,6 +1,6 @@
 
 <style>
-	body {
+body {
   line-height: 1.25;
 }
 
@@ -85,9 +85,7 @@ table th {
   }
 }
 
-	</style>
-	
-	
+</style>
 
 <table>
   <caption>罗湖金岸小区物业服务相关计划</caption>
