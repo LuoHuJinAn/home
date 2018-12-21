@@ -1,4 +1,6 @@
 
+# 罗湖金岸小区物业服务相关计划
+
 <style>
 body {
   line-height: 1.25;
@@ -88,10 +90,6 @@ table th {
 </style>
 
 <table>
-  <caption>罗湖金岸小区物业服务相关计划</caption>
-  
-  
-  
   <thead>
     <tr>
       <th scope="col">计划编号</th>
