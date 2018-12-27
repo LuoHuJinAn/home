@@ -18,5 +18,5 @@ git add -A
 git commit -a -m "Fu Wu Zhong Xin"
 git push origin master
 
-pause
+rem pause
 
