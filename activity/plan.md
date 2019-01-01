@@ -215,30 +215,7 @@ table th {
 <td data-label="计划状态">未开始</td>
 <td data-label="备注">无</td>
 </tr>
-<tr>
-<td data-label="计划编号">20181227</td>
-<td data-label="计划标题">小区物业服务合同放到网上供业主随时查看</td>
-<td data-label="责任部门/人">业委会</td>
-<td data-label="预计完成时间">2018年12月28日</td>
-<td data-label="计划状态">进行中</td>
-<td data-label="备注">无</td>
-</tr>
-<tr>
-<td data-label="计划编号">20181228</td>
-<td data-label="计划标题">统计，公布每个电梯按钮，显示屏的情况</td>
-<td data-label="责任部门/人">业委会</td>
-<td data-label="预计完成时间">2019年01月30日</td>
-<td data-label="计划状态">进行中</td>
-<td data-label="备注">无</td>
-</tr>
-<tr>
-<td data-label="计划编号">20181229</td>
-<td data-label="计划标题">统计，公布走廊灯，灯罩的情况</td>
-<td data-label="责任部门/人">业委会</td>
-<td data-label="预计完成时间">2019年01月30日</td>
-<td data-label="计划状态">进行中</td>
-<td data-label="备注">无</td>
-</tr>
+
 
 
 
