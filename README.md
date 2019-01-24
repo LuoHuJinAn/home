@@ -4,7 +4,7 @@
 ## [罗湖金岸微信群](/contact)
 
 ## 服务中心往来文件
-- ### [服务中心给业委会的函件](/from_services_centre/letters.html)
+- ### [服务中心给业委会的函件](/from_services_centre/letters_index)
 
 ## 重要文件
 - ### [罗湖金岸物业管理服务合同](/document/罗湖金岸物业管理服务合同.pdf)
