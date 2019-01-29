@@ -135,14 +135,7 @@ table th {
 <td data-label="计划状态">进行中</td>
 <td data-label="备注">无</td>
 </tr>
-<tr>
-<td data-label="计划编号">20181217</td>
-<td data-label="计划标题">整理规范所有小区分包方和供应商，签订合同（电梯、消防、清洁等）</td>
-<td data-label="责任部门/人">客服部</td>
-<td data-label="预计完成时间">2019年01月30日</td>
-<td data-label="计划状态">进行中</td>
-<td data-label="备注">无</td>
-</tr>
+
 <tr>
 <td data-label="计划编号">20181218</td>
 <td data-label="计划标题">组织全面清理楼道及公共区域大件垃圾，改善小区卫生环境</td>
@@ -212,12 +205,19 @@ table th {
 <td data-label="计划标题">全面恢复监控系统</td>
 <td data-label="责任部门/人">工程部</td>
 <td data-label="预计完成时间">2019年01月31日</td>
-<td data-label="计划状态">未开始</td>
+<td data-label="计划状态">进行中</td>
 <td data-label="备注">无</td>
 </tr>
 
 
-
+<tr>
+<td data-label="计划编号">20181217</td>
+<td data-label="计划标题">整理规范所有小区分包方和供应商，签订合同（电梯、消防、清洁等）</td>
+<td data-label="责任部门/人">客服部</td>
+<td data-label="预计完成时间">2019年01月30日</td>
+<td data-label="计划状态">已完成</td>
+<td data-label="备注">无</td>
+</tr>
 
 
 
